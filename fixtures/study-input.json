@@ -1,0 +1,674 @@
+{
+  "records": [
+    {
+      "source": "lab",
+      "id": "patent-0",
+      "data": {
+        "title": "合成专利0",
+        "institution": "合成研究所0",
+        "kind": "patent",
+        "year": 2020,
+        "people": [
+          "研究员0"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-0"
+          ]
+        },
+        "tags": [
+          "instrument"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-1",
+      "data": {
+        "title": "合成专利0",
+        "institution": "合成研究所1",
+        "kind": "patent",
+        "year": 2020,
+        "people": [
+          "研究员1"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-1"
+          ]
+        },
+        "tags": [
+          "material"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-2",
+      "data": {
+        "title": "合成专利1",
+        "institution": "合成研究所2",
+        "kind": "patent",
+        "year": 2020,
+        "people": [
+          "研究员2"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-2"
+          ]
+        },
+        "tags": [
+          "instrument"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-3",
+      "data": {
+        "title": "合成专利1",
+        "institution": "合成研究所0",
+        "kind": "patent",
+        "year": 2020,
+        "people": [
+          "研究员3"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-3"
+          ]
+        },
+        "tags": [
+          "material"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-4",
+      "data": {
+        "title": "合成专利2",
+        "institution": "合成研究所1",
+        "kind": "patent",
+        "year": 2020,
+        "people": [
+          "研究员4"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-4"
+          ]
+        },
+        "tags": [
+          "instrument"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-5",
+      "data": {
+        "title": "合成专利2",
+        "institution": "合成研究所2",
+        "kind": "patent",
+        "year": 2020,
+        "people": [
+          "研究员0"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-5"
+          ]
+        },
+        "tags": [
+          "material"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-6",
+      "data": {
+        "title": "合成专利3",
+        "institution": "合成研究所0",
+        "kind": "patent",
+        "year": 2020,
+        "people": [
+          "研究员1"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-6"
+          ]
+        },
+        "tags": [
+          "instrument"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-7",
+      "data": {
+        "title": "合成专利3",
+        "institution": "合成研究所1",
+        "kind": "patent",
+        "year": 2020,
+        "people": [
+          "研究员2"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-7"
+          ]
+        },
+        "tags": [
+          "material"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-8",
+      "data": {
+        "title": "合成专利4",
+        "institution": "合成研究所2",
+        "kind": "patent",
+        "year": 2021,
+        "people": [
+          "研究员3"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-8"
+          ]
+        },
+        "tags": [
+          "instrument"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-9",
+      "data": {
+        "title": "合成专利4",
+        "institution": "合成研究所0",
+        "kind": "patent",
+        "year": 2021,
+        "people": [
+          "研究员4"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-9"
+          ]
+        },
+        "tags": [
+          "material"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-10",
+      "data": {
+        "title": "合成专利5",
+        "institution": "合成研究所1",
+        "kind": "patent",
+        "year": 2021,
+        "people": [
+          "研究员0"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-10"
+          ]
+        },
+        "tags": [
+          "instrument"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-11",
+      "data": {
+        "title": "合成专利5",
+        "institution": "合成研究所2",
+        "kind": "patent",
+        "year": 2021,
+        "people": [
+          "研究员1"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-11"
+          ]
+        },
+        "tags": [
+          "material"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-12",
+      "data": {
+        "title": "合成专利6",
+        "institution": "合成研究所0",
+        "kind": "patent",
+        "year": 2021,
+        "people": [
+          "研究员2"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-12"
+          ]
+        },
+        "tags": [
+          "instrument"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-13",
+      "data": {
+        "title": "合成专利6",
+        "institution": "合成研究所1",
+        "kind": "patent",
+        "year": 2021,
+        "people": [
+          "研究员3"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-13"
+          ]
+        },
+        "tags": [
+          "material"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-14",
+      "data": {
+        "title": "合成专利7",
+        "institution": "合成研究所2",
+        "kind": "patent",
+        "year": 2021,
+        "people": [
+          "研究员4"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-14"
+          ]
+        },
+        "tags": [
+          "instrument"
+        ]
+      }
+    },
+    {
+      "source": "lab",
+      "id": "patent-15",
+      "data": {
+        "title": "合成专利7",
+        "institution": "合成研究所0",
+        "kind": "patent",
+        "year": 2021,
+        "people": [
+          "研究员0"
+        ],
+        "identifiers": {
+          "patent": [
+            "LOCAL-15"
+          ]
+        },
+        "tags": [
+          "material"
+        ]
+      }
+    }
+  ],
+  "family_membership": [
+    {
+      "record": "lab:patent-0",
+      "family": "family-0",
+      "public_year": 2020,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-1",
+      "family": "family-0",
+      "public_year": 2020,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-2",
+      "family": "family-1",
+      "public_year": 2020,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-3",
+      "family": "family-1",
+      "public_year": 2020,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-4",
+      "family": "family-2",
+      "public_year": 2020,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-5",
+      "family": "family-2",
+      "public_year": 2020,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-6",
+      "family": "family-3",
+      "public_year": 2020,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-7",
+      "family": "family-3",
+      "public_year": 2020,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-8",
+      "family": "family-4",
+      "public_year": 2021,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-9",
+      "family": "family-4",
+      "public_year": 2021,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-10",
+      "family": "family-5",
+      "public_year": 2021,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-11",
+      "family": "family-5",
+      "public_year": 2021,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-12",
+      "family": "family-6",
+      "public_year": 2021,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-13",
+      "family": "family-6",
+      "public_year": 2021,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-14",
+      "family": "family-7",
+      "public_year": 2021,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "record": "lab:patent-15",
+      "family": "family-7",
+      "public_year": 2021,
+      "fields": [
+        {
+          "field": "materials",
+          "share": 0.5
+        },
+        {
+          "field": "instrument",
+          "share": 0.5
+        }
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "id": "citation-4",
+      "citing": "lab:patent-4",
+      "cited": "lab:patent-0",
+      "cited_on": "2023-01-01",
+      "recorded_at": "2023-02-01T00:00:00Z"
+    },
+    {
+      "id": "citation-5",
+      "citing": "lab:patent-5",
+      "cited": "lab:patent-1",
+      "cited_on": "2024-01-01",
+      "recorded_at": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "citation-6",
+      "citing": "lab:patent-6",
+      "cited": "lab:patent-2",
+      "cited_on": "2022-01-01",
+      "recorded_at": "2023-02-01T00:00:00Z"
+    },
+    {
+      "id": "citation-7",
+      "citing": "lab:patent-7",
+      "cited": "lab:patent-3",
+      "cited_on": "2023-01-01",
+      "recorded_at": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "citation-8",
+      "citing": "lab:patent-8",
+      "cited": "lab:patent-0",
+      "cited_on": "2024-01-01",
+      "recorded_at": "2023-02-01T00:00:00Z"
+    },
+    {
+      "id": "citation-9",
+      "citing": "lab:patent-9",
+      "cited": "lab:patent-1",
+      "cited_on": "2022-01-01",
+      "recorded_at": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "citation-10",
+      "citing": "lab:patent-10",
+      "cited": "lab:patent-2",
+      "cited_on": "2023-01-01",
+      "recorded_at": "2023-02-01T00:00:00Z"
+    },
+    {
+      "id": "citation-11",
+      "citing": "lab:patent-11",
+      "cited": "lab:patent-3",
+      "cited_on": "2024-01-01",
+      "recorded_at": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "citation-12",
+      "citing": "lab:patent-12",
+      "cited": "lab:patent-0",
+      "cited_on": "2022-01-01",
+      "recorded_at": "2023-02-01T00:00:00Z"
+    },
+    {
+      "id": "citation-13",
+      "citing": "lab:patent-13",
+      "cited": "lab:patent-1",
+      "cited_on": "2023-01-01",
+      "recorded_at": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "citation-14",
+      "citing": "lab:patent-14",
+      "cited": "lab:patent-2",
+      "cited_on": "2024-01-01",
+      "recorded_at": "2023-02-01T00:00:00Z"
+    },
+    {
+      "id": "citation-15",
+      "citing": "lab:patent-15",
+      "cited": "lab:patent-3",
+      "cited_on": "2022-01-01",
+      "recorded_at": "2024-02-01T00:00:00Z"
+    }
+  ],
+  "study": {
+    "window_years": 3,
+    "known_at": "2026-11-12T00:00:00Z",
+    "exclude_self_citations": true,
+    "minimum_reference_families": 2
+  }
+}
